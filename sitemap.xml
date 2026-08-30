@@ -1,10 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
+
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
   <url>
-    <loc>https://yura-doem-wep-developer.vercel.app/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>1.0</priority>
+    <loc>https://yura-doem-wep-developer-bz7v.vercel.app/</loc>
+  </url>
+
+  <url>
+    <loc>https://yura-doem-wep-developer-bz7v.vercel.app/page/about.html</loc>
+  </url>
+
+  <url>
+    <loc>https://yura-doem-wep-developer-bz7v.vercel.app/page/contact-me.html</loc>
+  </url>
+
+  <url>
+    <loc>https://yura-doem-wep-developer-bz7v.vercel.app/page/my-skill.html</loc>
   </url>
 
 </urlset>
